@@ -2,7 +2,7 @@
 
 DZX7=z88dk-dzx7
 CONV_MIDI=../MIDI-Converter/convert.sh
-PX3_DDL="../Planet-X3-With-Soundtrack/Planet X3 Digital Download"
+PX3_DDL="./Planet X3"
 DEST=assets
 DIR_6ISLAND="../6ISLAND"
 CONV_GFX="../assetconv"

@@ -1,5 +1,15 @@
-build/
 *~
+
+.cache/
 .envrc
+build/
+compile_commands.json
+Session.vim
+
 *.elf
 *.nds
+
+assets/
+Planet X3/
+*.ppm
+*.png
